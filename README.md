@@ -1,5 +1,5 @@
 # 👨‍🔧 Omkar Jadhav | HiL Validation Senior Engineer
-![HiL Demo](https://media.giphy.com/media/2aW4v5nTSK5hT7HpjF/giphy.gif) <!-- Replace with your own hosted GIF URL -->
+
 🎯 3+ years of hands-on experience in **Hardware-in-the-Loop (HiL)** and **Software-in-the-Loop (SiL)** validation  
 🔧 Specialized in **dSPACE**, **Typhoon HIL**, and Python-based test automation using `pytest`  
 📍 Passionate about building robust, automated testing pipelines for EV & embedded systems  
